@@ -16,5 +16,5 @@ jobs:
           with:
             python-version: "3.10"
 
-        - name: Rin script
+        - name: Run script
           run: python hello.py
