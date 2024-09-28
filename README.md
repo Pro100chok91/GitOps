@@ -54,9 +54,9 @@ jobs:
 ```bash
 git push origin master
 ```
-![alt text](https://github.com/Pro100chok91/sa.it-academy.by/blob/md-sa2-29-24/Kirill_Fadeev/04.GitOps/img/1.jpg)
+![alt text](https://github.com/Pro100chok91/GitOps/blob/master/img/1.jpg)
 
-![alt text](https://github.com/Pro100chok91/sa.it-academy.by/blob/md-sa2-29-24/Kirill_Fadeev/04.GitOps/img/2.jpg)
+![alt text](https://github.com/Pro100chok91/GitOps/blob/master/img/2.jpg)
 
 # Homework Assignment 2: Building and Testing with GitHub Actions
 
@@ -131,9 +131,9 @@ jobs:
 ```
 6. Ensure the workflow reports whether the tests passed or failed.
 ### Success test
-![alt text](https://github.com/Pro100chok91/sa.it-academy.by/blob/md-sa2-29-24/Kirill_Fadeev/04.GitOps/img/3.jpg)
+![alt text](https://github.com/Pro100chok91/GitOps/blob/master/img/3.jpg)
 
 ### Failed test
 
-![alt text](https://github.com/Pro100chok91/sa.it-academy.by/blob/md-sa2-29-24/Kirill_Fadeev/04.GitOps/img/4.jpg)
+![alt text](https://github.com/Pro100chok91/GitOps/blob/master/img/4.jpg)
 
